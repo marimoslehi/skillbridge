@@ -27,12 +27,7 @@ SkillBridge bridges the gap between where you are and where you want to be in yo
 - Course APIs (Coursera, edX, Khan Academy)
 - OpenAI API (for skill analysis)
 
-## 📁 Project Structure
-skillbridge/
-├── frontend/          # React frontend application
-├── backend/           # Node.js backend API
-├── docs/             # Documentation and user stories
-└── design/           # UI/UX mockups and assets
+
 
 ## 🎯 Key Features (Planned)
 
